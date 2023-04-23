@@ -16,7 +16,7 @@ Game Rules : <br>
        ("Stage 1: Addition", "Stage 2: Subtraction", "Stage 3: Multiplication") <br>
     3. The program displays the result of the trial <br>
        (The number of questions answered in 10 seconds, The number of correct answers, The percentage of correctness) <br>
-    4. Player decide whether to resume the game or save & exit. <br>
+    4. Player decide whether to resume the game or save & exit or quit the game without saving. <br>
 
 Implemented Features : <br>
     1. For coding element 1, we have used "srand(time(0));" to generate random numbers for the game. <br>
