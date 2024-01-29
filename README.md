@@ -1,4 +1,4 @@
-Project Proposal
+# Project Proposal
 
 COMP2113 Course Project Name : Digit Defense <br>
 
