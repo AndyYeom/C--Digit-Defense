@@ -1,8 +1,8 @@
-# COMP2113
+# Project Proposal
 
 COMP2113 Course Project Name : Digit Defense <br>
 
-Group 170 Members : Liu Ian(3035834931), Gao Kangrui(3035953139), Yeom Dongjun(3035666463), Yang Seunghoon(3035665483) <br>
+Group 170 Members : Yeom Dongjun(3035666463), Liu Ian(3035834931), Gao Kangrui(3035953139), Yang Seunghoon(3035665483) <br>
 
 Description : <br>
     "Digit Defense" is designed to enhance the player's basic mathematical skills. <br>
